@@ -7,8 +7,8 @@
     <a class="header-badge" target="_blank" href="https://twitter.com/rhgps">
         <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rhgps?style=social">
     </a>
-        <a class="header-badge" target="_blank" href="https://twitter.com/rhgps">
-        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rhgps?style=social">
+        <a class="header-badge" target="_blank" href="https://harapan.me">
+        <img alt="Twitter Follow" src="https://img.shields.io/badge/blog-harapan.me-blue">
     </a>
 <div>
 
