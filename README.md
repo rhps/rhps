@@ -13,7 +13,7 @@
 <div>
 
 ## About
-- Data Engineer <a href="https://github.com/cloudflare">@cloudflare</>, working with WAFML team to secure and build a better internet
+- Data Engineer <a href="https://github.com/cloudflare">@cloudflare</a>, working with WAFML team to secure and build a better internet
 - I'm specially interested in Data Engineering, Pipelines, AI and Machine Learning from Engineering perspective
 - Write about Technology, Mountainering and Book at https://www.harapan.me
 - Email me at rio [at] harapan.me
