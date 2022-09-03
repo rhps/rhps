@@ -8,9 +8,8 @@
         <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/archiavelli?style=social">
     </a>
 <div>
-<br>
-# About
 
+## About
 - Data Engineer @cloudflare, working with WAFML team to secure and build a better internet
 - Write about Technology, Mountainering and Book at https://www.harapan.me
 - Email me at rio [at] harapan.me​
