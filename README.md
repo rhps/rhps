@@ -13,6 +13,6 @@
 <div>
 
 ## About
-- Data Engineer / Machine Learning Engineer <a href="https://github.com/cloudflare">@cloudflare</a>, working with WAFML team to secure and build a better internet
+- Machine Learning Engineer <a href="https://github.com/cloudflare">@cloudflare</a>, working with Data Science Platform Team responsible for ML Platform and GPU fleet on Kubernetes
 - Write about Technology, Mountainering and Book at https://www.harapan.me
 - Email me at rio [at] harapan.me
